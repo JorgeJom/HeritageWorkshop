@@ -21,5 +21,12 @@
       <FileName>Rectangle.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="HeritageWorkshop.Backend.Parallelogram">
+    <Position X="1.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAEAAAAAGEAAAAA=</HashCode>
+      <FileName>Parallelogram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

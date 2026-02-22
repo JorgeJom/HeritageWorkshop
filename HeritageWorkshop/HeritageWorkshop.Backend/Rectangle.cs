@@ -1,6 +1,6 @@
 ﻿namespace HeritageWorkshop.Backend;
 
-internal class Rectangle : Square
+public class Rectangle : Square
 {
     // Fields
     private double _b;
