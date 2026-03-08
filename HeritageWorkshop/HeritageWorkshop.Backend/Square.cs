@@ -15,7 +15,7 @@ public class Square : GeometricFigure
     public double A
     {
         get => _a;
-        set => _a = ValidateA(value);
+        set => _a = ValidateA(value); 
     }
 
     // Methods

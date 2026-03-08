@@ -4,8 +4,8 @@ public abstract class GeometricFigure
 {
     // Properties
     public string Name
-    { 
-        get; 
+    {
+        get;
         set;
     }
 
